@@ -96,3 +96,17 @@ It demonstrates my ability to:
 ## Dataset
 
 AdventureWorks sample sales data used for educational and portfolio purposes.
+
+## Dashboard Screenshots
+
+### DAX Practice
+![DAX Practice](screenshots/DAX-Practice.png)
+
+### Time Intelligence
+![Time Intelligence](screenshots/Time-Intelligence.png)
+
+### Advanced DAX
+![Advanced DAX](screenshots/Advanced-DAX.png)
+
+### Sales Performance Dashboard
+![Sales Dashboard](screenshots/Sales-Dashboard.png)
